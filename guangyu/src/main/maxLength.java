@@ -34,10 +34,10 @@ public class maxLength {
     }  
     public static void main(String[] args) {  
         String str="aaaaaaaaaaabbbbbbbbbbbbbbccccccccccccccccc";  
-        System.out.println(maxLength(str));  
         System.out.println(maxLength(str));
         System.out.println("1");
 
-    }  
+
+    }
   
 }  
